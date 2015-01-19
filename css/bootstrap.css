@@ -3259,7 +3259,8 @@ textarea.input-group-sm>.form-control, textarea.input-group-sm>.input-group-addo
     }
     .navbar-fixed-top .navbar-collapse, .navbar-static-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {
         padding-right: 0;
-        padding-left: 0
+        padding-left: 0;
+        padding-bottom:10px;
     }
 }
 .navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {
